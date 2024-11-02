@@ -47,7 +47,7 @@ section {
   gap: 10px;
 }
 section h2 {
-  font-size: 25px;
+  font-size: 20px;
 }
 .section-contatos {
   background-color: rgb(50, 50, 50);
@@ -112,7 +112,7 @@ section h2 {
     width: 70%;
   }
   section h2 {
-    font-size: 15px;
+    font-size: 18px;
   }
 
   .container-contatos {
