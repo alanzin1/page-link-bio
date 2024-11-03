@@ -77,10 +77,10 @@ section h2 {
   height: auto;
   border: none;
   background-color: white;
-  margin-left: 30px;
+  margin-left: 50px;
 }
 .container-contatos h3 {
-  margin-right: 30px;
+  margin-right: 50px;
 }
 .container-contatos:hover {
   background-color: #eecb4b;
@@ -105,6 +105,10 @@ section h2 {
   }
   .container-contatos img {
     width: 25px;
+    margin-left: 10px;
+  }
+  .container-contatos h3 {
+    margin-right: 10px;
   }
 
   img {
@@ -126,6 +130,12 @@ section h2 {
   }
   .container-contatos:hover {
     width: 70%;
+  }
+  .container-contatos img {
+    margin-left: 10px;
+  }
+  .container-contatos h3 {
+    margin-right: 10px;
   }
 
   img {
@@ -149,5 +159,11 @@ section h2 {
   img {
     width: 220px;
     height: 220px;
+  }
+  .container-contatos img {
+    margin-left: 10px;
+  }
+  .container-contatos h3 {
+    margin-right: 10px;
   }
 }
